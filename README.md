@@ -1,1 +1,1 @@
-# Javascript-Beat-Mix
+# Beat-Mix
